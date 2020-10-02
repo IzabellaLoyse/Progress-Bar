@@ -17,7 +17,7 @@
 
 * Website: www.gitshowcase.com/izabellaloyse
 * Github: [@IzabellaLoyse](https://github.com/IzabellaLoyse)
-* LinkedIn: [@Izabella Loyse Cândido](https://linkedin.com/in/IzabellaLoyseCândido)
+* LinkedIn: [@Izabella Loyse Cândido](https://www.linkedin.com/in/izabella-loyse-candido/)
 
 ## 🤝 Contributing
 
