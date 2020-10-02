@@ -1,0 +1,41 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  height: 100vh;
+  color: #f5900c;
+  background-color:#121213;
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.progress{
+  width: 300px;
+  height: 40px;
+  border-radius: 20px;
+  background-color: #fff5;
+  margin-top: 20px;
+}
+
+.progress-done{
+  width: 0;
+  opacity: 0;
+  height: 100%;
+  font-family: helvetica;
+  color: #283745;
+  border-radius: 20px;
+  box-shadow: 0 3px -5px #00ff33, 0 2px 5px #00ff33;
+  transition: 1.5s ease;
+  background: linear-gradient(to left,#00ff33,#00ff99);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
