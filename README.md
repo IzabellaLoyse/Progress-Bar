@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> Layout simples de Progress Bar
+> Layout simples de  um Progress Bar
 
 ### 🏠 [Homepage](https://github.com/IzabellaLoyse/Progress-Bar/blob/master/README.md)
 
